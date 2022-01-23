@@ -1,0 +1,18 @@
+/home/linke/solana/solana_calculator_program/mycalculatordapp/target/debug/deps/typenum-30844e8a3a841e5c.rmeta: /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /home/linke/solana/solana_calculator_program/mycalculatordapp/target/debug/build/typenum-e8acf6f6539df927/out/op.rs /home/linke/solana/solana_calculator_program/mycalculatordapp/target/debug/build/typenum-e8acf6f6539df927/out/consts.rs
+
+/home/linke/solana/solana_calculator_program/mycalculatordapp/target/debug/deps/typenum-30844e8a3a841e5c.d: /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /home/linke/solana/solana_calculator_program/mycalculatordapp/target/debug/build/typenum-e8acf6f6539df927/out/op.rs /home/linke/solana/solana_calculator_program/mycalculatordapp/target/debug/build/typenum-e8acf6f6539df927/out/consts.rs
+
+/home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs:
+/home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs:
+/home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs:
+/home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs:
+/home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs:
+/home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs:
+/home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs:
+/home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs:
+/home/linke/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs:
+/home/linke/solana/solana_calculator_program/mycalculatordapp/target/debug/build/typenum-e8acf6f6539df927/out/op.rs:
+/home/linke/solana/solana_calculator_program/mycalculatordapp/target/debug/build/typenum-e8acf6f6539df927/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/home/linke/solana/solana_calculator_program/mycalculatordapp/target/debug/build/typenum-e8acf6f6539df927/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/home/linke/solana/solana_calculator_program/mycalculatordapp/target/debug/build/typenum-e8acf6f6539df927/out/op.rs
